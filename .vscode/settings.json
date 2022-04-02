@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "toolchain.h": "c",
+        "mutex": "c",
+        "shared_mutex": "c"
+    }
+}
